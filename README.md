@@ -453,12 +453,12 @@ Feel free to use, modify, and distribute according to the license terms.
 
 <div align="center">
 
-### 👨‍💻 **Samad Ali**
-**Full-Stack Developer & Computer Vision Enthusiast**
+### 👨‍💻 **Abdul Samad**
+**Software Engineer & AI Researcher**
 
 [![GitHub](https://img.shields.io/badge/GitHub-@itxsamad1-181717?style=for-the-badge&logo=github)](https://github.com/itxsamad1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/itxsamad1)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/itxsammad1)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:itxsamad@icloud.com)
 
 </div>
 
